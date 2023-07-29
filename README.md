@@ -16,7 +16,7 @@ Real-time Sync: Any changes made to the notes are automatically synchronized wit
 
 # Getting Started:
 
-Clone the repository: git clone https://github.com/your_username/mini_online_shoes_app.git
+Clone the repository: git clone [https://github.com/your_username/mini_online_shoes_app.git](https://github.com/abhijg/Note-app/tree/main)
 Navigate to the project directory: cd mini_online_shoes_app
 
 Firebase Setup:
